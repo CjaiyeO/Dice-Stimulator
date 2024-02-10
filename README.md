@@ -14,7 +14,7 @@ This is a simple Python program that simulates rolling dice. It allows the user 
 
 # Refrence 
 This program was developed with reference to the following resources:
-- [[GeeksforGeeks - Python Random Numbers](https://www.geeksforgeeks.org/python-random-randint-function/)](https://www.geeksforgeeks.org/python-randint-function/)
+- [[GeeksforGeeks - Python Random Numbers](https://www.geeksforgeeks.org/python-randint-function/)
 
 # License
 - This project is licensed under the MIT License.
