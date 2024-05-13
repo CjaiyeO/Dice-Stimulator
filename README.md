@@ -1,4 +1,4 @@
-# Dice Stimulator
+# Dice Simulator
 This is a simple Python program that simulates rolling dice. It allows the user to specify the number of dice to roll and then displays the result of each roll in a graphical representation.
 
 # Getting Started
